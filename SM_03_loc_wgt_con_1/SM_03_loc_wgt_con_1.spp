@@ -1,7 +1,7 @@
-0.0 1.0 1 1 1.0 ../Data/index_vol_1_koivu.tif
-2.5 1.0 1 1 1.0 ../Data/index_vol_2_kuusi.tif
-7.5 1.0 1 1 1.0 ../Data/index_vol_3_manty.tif
-0.0 1.0 1 1 1.0 ../Data/index_vol_4_mlp.tif
+0.0 0.001 1 1 1.0 ../Data/index_vol_1_koivu.tif
+2.5 0.001 1 1 1.0 ../Data/index_vol_2_kuusi.tif
+7.5 0.001 1 1 1.0 ../Data/index_vol_3_manty.tif
+0.0 0.001 1 1 1.0 ../Data/index_vol_4_mlp.tif
 0.0 1.0 1 1 1.0 ../Data/index_vol_1_koivu.tif
 1.0 1.0 1 1 1.0 ../Data/index_vol_2_kuusi.tif
 3.0 1.0 1 1 1.0 ../Data/index_vol_3_manty.tif
