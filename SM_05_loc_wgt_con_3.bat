@@ -1,0 +1,1 @@
+call zig3 -r SM_05_loc_wgt_con_3/SM_05_loc_wgt_con_3.dat SM_05_loc_wgt_con_3/SM_05_loc_wgt_con_3.spp output/SM_05_loc_wgt_con_3/SM_05_loc_wgt_con_3.txt 0 0 1 0 --grid-output-formats compressed-tif
