@@ -1,0 +1,7 @@
+runs:
+- "SM_01_loc.bat"
+- "SM_02_loc_wgt.bat"
+- "SM_03_loc_wgt_con_1.bat"
+- "SM_04_loc_wgt_con_2.bat"
+- "SM_05_loc_wgt_con_3.bat"
+- "SM_06_loc_wgt_con_4.bat"
