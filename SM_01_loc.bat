@@ -1,0 +1,1 @@
+call zig3 -r SM_01_loc/SM_01_loc.dat SM_01_loc/SM_01_loc.spp output/SM_01_loc/SM_01_loc.txt 0 0 1 0 --grid-output-formats compressed-tif
