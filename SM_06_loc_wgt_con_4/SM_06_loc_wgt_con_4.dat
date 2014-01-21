@@ -1,0 +1,18 @@
+[Settings]
+removal rule = 2
+warp factor  = 1000
+edge removal = 1
+annotate name = 0
+
+mask missing areas = 1
+area mask file = ../Data/maskiesuomi.tif
+
+use interactions = 1
+interaction file = common/SM_500m_inter.txt
+
+[Community analysis settings]
+load similarity matrix = 1
+connectivity similarity matrix file = common/SM_200m_cmtrx.txt
+apply to connectivity = 1
+community similarity matrix file = 
+apply to representation = 0
