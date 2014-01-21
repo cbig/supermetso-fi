@@ -28,7 +28,7 @@ lasketaan kaikkien solujen yli vain perustuen niiden omiin arvoihin (ns.
 paikallinen arvo). Ihmisvaikutusrasterin negatiivinen painokerroin kuvastaa 
 olettamusta, että metso aktiivisesti välttelee tällaisen maankäytön alueita.
 
-### S2
+### S2 - SM_02_loc_wgt
 
 Tässä skenaariossa huomioidaan edelleen pelkkä paikallisen elinympäristön 
 laatu. Eri puulajit saavat kuitenkin erilaiset painot:
@@ -50,7 +50,7 @@ Painotus perustuu tutkittuun tietoon siitä, että metson soidinpaikat
 sijaitsevat Suomessa pääosin havupuuvaltaisissa metsissä, etenkin kuivahkoilla 
 mäntykankailla. 
 
-### S3
+### S3 - SM_03_loc_wgt_con_1
 
 Kolmannessa skenaariossa solujen keskinäinen arvojärjestys perustuu sekä 
 paikallisen elinympäristön laatuun (kuten edellä kuvatussa skenaariossa S2) 
@@ -58,7 +58,7 @@ että solujen väliseen kytkeytyvyyteen. Kytkeytyvyys on määritelty eri
 puulajirastereiden välille käyttäen 2 kilometrin keskimääräistä 
 kytkeytyvyysmittaa. Tämä etäisyys on keskimääräinen kernel-tyyppinen etäisyys, 
 mikä tarkoittaa, että kytkeytyvyysvaikutus ei rajoitu tähän etäisyyteen vaan 
-vähenee periaatteessa äärettömyyteen saakka1. Eri puulajien painotus on 
+vähenee periaatteessa äärettömyyteen saakka. Eri puulajien painotus on 
 muutoin kuten edellä, mutta kytkeytyvyydellä muunnetut indeksipiirteet saavat 
 2,5 -kertaa suuremman painoarvon kuin muut ominaisuudet. Tällä korostetaan 
 metson soidinalueen merkitystä analyysissa. Kahden kilometrin keskimääräinen 
@@ -77,7 +77,7 @@ ja lehtipuiden välillä. Nämä määritelmät perustuvat kuvitelmaan siitä, m
 eri puulajivaltaiset elinympäristöt ovat kytkeytyneitä toisiinsa metson 
 näkökulmasta. 
 
-### S4
+### S4 - SM_04_loc_wgt_con_2
 
 Neljännessä skenaariossa on kaikki skenaarion S3 elementit, mutta lisäksi 
 mukaan tulee kytkeytyvyys eri puulajirastereiden välillä 10 kilometrin 
@@ -89,7 +89,7 @@ ilmiöistä, jotka vaikuttavat metson paikallisen soidinpopulaation kokoon. Täm
 kytkeytyvyystaso huomioidaan analyysissa paikallisen elinympäristön laatua 
 vastaavilla painoarvoilla (taulukko 1).
 
-### S5
+### S5 - SM_05_loc_wgt_con_3
 
 Skenaario on muutoin samanlainen kuin S4, mutta mukaan tulee sekametsää 
 suosiva, metsikkötason kytkeytyvyys eri indeksipiirteiden välillä 200 metrin 
@@ -103,7 +103,7 @@ lehtipuustoa, saavat analyysissa korkeamman prioriteetin. Tämän
 kytkeytyvyystason painoarvo on sama kuin paikallisen elinympäristön laadun ja 
 10 kilometrin kytkeytyvyystason (taulukko 1). 
 
-### S6
+### S6 - SM_06_loc_wgt_con_4
 
 Lopullisessa priorisointirasterissa S6 oleva solujen arvojärjestys perustuu 
 sekä paikallisen elinympäristön laatuun että solujen väliseen 
