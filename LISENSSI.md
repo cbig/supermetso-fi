@@ -1,0 +1,2 @@
+
+Tämä aineisto on lisensoitu Creative Commons Nimeä 3.0 Muokkaamaton -lisenssillä. Tarkastele tätä lisenssiä osoitteessa http://creativecommons.org/licenses/by/3.0/deed.fi tai lähetä kirje osoitteeseen Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
